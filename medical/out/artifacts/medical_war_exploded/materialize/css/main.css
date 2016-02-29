@@ -1,0 +1,9 @@
+.top-header .fixed{
+    position: fixed;
+    width: 100%;
+}
+.page-footer .fixed{
+    position: fixed;
+    width: 100%;
+}
+
